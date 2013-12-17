@@ -5,14 +5,14 @@
         <title>Sample 4</title>
         <meta name="viewport" content="width=device-width, initial-scale=1.0">
 
-        <link rel="shortcut icon" href="flat-ui/images/favicon.ico">
+        <link rel="shortcut icon" href="../../flat-ui/images/favicon.ico">
 
-        <link rel="stylesheet" href="flat-ui/bootstrap/css/bootstrap.css">
-        <link rel="stylesheet" href="flat-ui/bootstrap/css/bootstrap-responsive.css">
-        <link rel="stylesheet" href="flat-ui/css/flat-ui.css">
+        <link rel="stylesheet" href="../../flat-ui/bootstrap/css/bootstrap.css">
+        <link rel="stylesheet" href="../../flat-ui/bootstrap/css/bootstrap-responsive.css">
+        <link rel="stylesheet" href="../../flat-ui/css/flat-ui.css">
         
         <!-- Using only with Flat-UI (free)-->
-            <link rel="stylesheet" href="common-files/css/icon-font.css">
+            <link rel="stylesheet" href="../../common-files/css/icon-font.css">
         <!-- end -->  
         
         <link rel="stylesheet" href="css/style.css">
