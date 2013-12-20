@@ -76,7 +76,7 @@ function fadedEls(el, shift) {
 
        
         (function(el) {
-            el.css('left', '-100%');
+            //el.css('left', '-100%');
 
             $(window).resize(function() {
                 if (!el.hasClass('ani-processed')) {
