@@ -608,6 +608,7 @@ section * {
 .container {
   position: relative;
   z-index: 2;
+  margin-bottom: 100px;
 }
 @media (max-width: 767px) {
   header {
